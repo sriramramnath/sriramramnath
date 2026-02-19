@@ -4,7 +4,6 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Convex](https://img.shields.io/badge/-Convex-FF6B6B?style=flat-square)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 > Building EduOS — a system for rethinking how learning platforms work. Exploring AI, search, and reactive architectures while turning ideas into real systems.
 
