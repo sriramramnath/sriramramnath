@@ -17,7 +17,7 @@
 ## Latest Work
 
 - [EduOS](https://educationos.vercel.app) – Education platform  
-- [LevLang](https://github.com/sriramramnath/levlang) – Custom game development language (compiles to python)
+- [LevLang](https://github.com/sriramramnath/language) – Custom game development language (compiles to python)
 - [School Search](https:school-search-eight.vercel.app) – Structured discovery and search system for schools 
 
 ---
