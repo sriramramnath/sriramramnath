@@ -31,3 +31,11 @@
 - Always experimenting with new ideas  
 
 </details>
+
+<details>
+<summary>Hobbys</summary>
+
+- I like making art
+    - [Check out my website](https://sriramarts.com) 
+
+</details>
