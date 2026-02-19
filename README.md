@@ -1,16 +1,33 @@
-## Hi there 👋
+# Sriram Ramnath
 
-<!--
-**sriramramnath/sriramramnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Convex](https://img.shields.io/badge/-Convex-FF6B6B?style=flat-square)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 
-Here are some ideas to get you started:
+> Building EduOS — a system for rethinking how learning platforms work. Exploring AI, search, and reactive architectures while turning ideas into real systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Doing
+
+- **Building EduOS** – Designing a modern learning platform that rethinks how students interact with education systems  
+- **Exploring AI systems** – Learning search, optimization, and how intelligence fits into real products  
+- **Rapid prototyping** – Turning ideas into working systems, not just concepts  
+- **Thinking in systems** – From LevLang to School Search, experimenting with architecture and abstraction  
+
+## Latest Work
+
+- [EduOS](https://educationos.vercel.app) – Education platform  
+- [LevLang](https://github.com/sriramramnath/levlang) – Custom game development language (compiles to python)
+- [School Search](https:school-search-eight.vercel.app) – Structured discovery and search system for schools 
+
+---
+
+<details>
+<summary>Notes</summary>
+
+- Interested in AI + education systems  
+- Focused on strong fundamentals (math, algorithms, CS)  
+- Prefer clean structure over complexity  
+- Always experimenting with new ideas  
+
+</details>
