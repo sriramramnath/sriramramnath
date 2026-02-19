@@ -39,3 +39,12 @@
     - [Check out my website](https://sriramarts.com) 
 
 </details>
+
+
+<details>
+<summary>Archived</summary>
+
+- [SearchVerse](https://github.com/sriramramnath/search-verse-sriram) - A cool search landing page.
+- [LevCode](https://github.com/sriramramnath/IDE) - IDE for developing with LevLang.(Now works with VS Code)
+
+</details>
