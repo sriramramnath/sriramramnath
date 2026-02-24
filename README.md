@@ -43,6 +43,6 @@
 <summary>Archived</summary>
 
 - [SearchVerse](https://github.com/sriramramnath/search-verse-sriram) - A cool search landing page.
-- [LevCode](https://github.com/sriramramnath/IDE) - IDE for developing with LevLang.(Now works with VS Code)
+- [LevCode](https://github.com/sriramramnath/IDE) - IDE for developing with LevLang. (Now syntax hilighting and many other features are available in VS Code and the CLI)
 
 </details>
