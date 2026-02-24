@@ -1,48 +1,50 @@
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Convex](https://img.shields.io/badge/-Convex-FF6B6B?style=flat-square)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-FF6B6B?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-121212?style=for-the-badge&logo=openai&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-> Building EduOS — a system for rethinking how learning platforms work. Exploring AI, search, and reactive architectures while turning ideas into real systems.
 
-## What I'm Doing
+> Building **EduOS** — rethinking how learning platforms work from first principles.  
+> Exploring AI systems, search, and reactive architectures while turning ideas into real, usable software.
 
-- **Building EduOS** – Designing a modern learning platform that rethinks how students interact with education systems  
-- **Exploring AI systems** – Learning search, optimization, and how intelligence fits into real products  
-- **Rapid prototyping** – Turning ideas into working systems, not just concepts  
-- **Thinking in systems** – From LevLang to School Search, experimenting with architecture and abstraction  
+---
 
-## Latest Work
+## Projects
 
-- [EduOS](https://educationos.vercel.app) – Education platform  
-- [LevLang](https://github.com/sriramramnath/language) – Custom game development language (compiles to python)
-- [School Search](https:school-search-eight.vercel.app) – Structured discovery and search system for schools 
+- **[EduOS](https://educationos.vercel.app)**  - A modern education platform built to rethink digital learning environments.
+
+- **[LevLang](https://github.com/sriramramnath/language)** -  Custom programming language for game development, compiling to Python.
+
+- **[School Search](https://school-search-eight.vercel.app)**  - Structured discovery and intelligent search system for schools.
 
 ---
 
 <details>
-<summary>Notes</summary>
+<summary> Notes</summary>
 
-- Interested in AI + education systems  
-- Focused on strong fundamentals (math, algorithms, CS)  
-- Prefer clean structure over complexity  
-- Always experimenting with new ideas  
+- Interested in AI
+- Completed CS50 courses
+- Studying for IGCSE exams
 
 </details>
 
 <details>
-<summary>Hobbys</summary>
+<summary>Creative Work</summary>
 
-- I like making art
-    - [Check out my website](https://sriramarts.com) 
+I also create digital art.
+
+-> **[sriramarts.com](https://sriramarts.com)**
 
 </details>
 
-
 <details>
-<summary>Archived</summary>
+<summary>Archived Projects</summary>
 
-- [SearchVerse](https://github.com/sriramramnath/search-verse-sriram) - A cool search landing page.
-- [LevCode](https://github.com/sriramramnath/IDE) - IDE for developing with LevLang. (Now syntax hilighting and many other features are available in VS Code and the CLI)
+- **[SearchVerse](https://github.com/sriramramnath/search-verse-sriram)**  Experimental search landing experience.
+
+- **[LevCode](https://github.com/sriramramnath/IDE)**  IDE for LevLang development.  (Now replaced by VS Code extensions and CLI tooling.)
 
 </details>
