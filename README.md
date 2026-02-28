@@ -42,9 +42,7 @@ I also create digital art.
 
 <details>
 <summary>Archived Projects</summary>
-
-- **[SearchVerse](https://github.com/sriramramnath/search-verse-sriram)** - Experimental search landing experience.
-
+  
 - **[LevCode](https://github.com/sriramramnath/IDE)** - IDE for LevLang development. (Now replaced by VS Code extensions and LevLang CLI.)
 
 </details>
