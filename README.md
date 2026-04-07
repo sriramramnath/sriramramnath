@@ -7,7 +7,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-> Building **EduOS** — rethinking how learning platforms work from first principles.  
+> Building **EduOS** and **Cash Control** 
 > Exploring AI systems, search, and reactive architectures while turning ideas into real, usable software.
 
 ---
