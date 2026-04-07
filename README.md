@@ -14,11 +14,10 @@
 
 ## Projects
 
-- **[EduOS](https://educationos.vercel.app)**  - A modern education platform built to rethink digital learning environments.
-
-- **[LevLang](https://github.com/sriramramnath/language)** -  Custom programming language for game development, compiling to Python.
-
-- **[School Search](https://school-search-eight.vercel.app)**  - Structured discovery and intelligent search system for schools.
+- **[Cash Control](https://cashcontrol-delta.vercel.app)**  - A modern ERP platform built to streamline financial management, invoicing, and business operations.
+- **[EducationOS]
+  - **[EduOS Atlas](https://eduosatlas.vercel.app)**  - An IGCSE learning platform built for simple, effective revision.
+  - **[EduOS Campus](https://educationos.vercel.app)**  - A modern education platform built to rethink digital learning environments.
 
 ---
 
@@ -42,7 +41,11 @@ I also create digital art.
 
 <details>
 <summary>Archived Projects</summary>
+
+- **[LevLang](https://github.com/sriramramnath/language)** -  Custom programming language for game development, compiling to Python.
   
 - **[LevCode](https://github.com/sriramramnath/IDE)** - IDE for LevLang development. (Now replaced by VS Code extensions and LevLang CLI.)
+
+- **[School Search](https://school-search-eight.vercel.app)**  - Structured discovery and intelligent search system for schools.
 
 </details>
