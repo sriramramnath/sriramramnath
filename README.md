@@ -15,7 +15,7 @@
 ## Projects
 
 - **[Cash Control](https://cashcontrol-delta.vercel.app)**  - A modern ERP platform built to streamline financial management, invoicing, and business operations.
-- **[EducationOS]
+- **EducationOS**
   - **[EduOS Atlas](https://eduosatlas.vercel.app)**  - An IGCSE learning platform built for simple, effective revision.
   - **[EduOS Campus](https://educationos.vercel.app)**  - A modern education platform built to rethink digital learning environments.
 
