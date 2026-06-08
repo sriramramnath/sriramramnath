@@ -6,13 +6,21 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+Hi, I’m Sriram Ramnath, founder of www.OmniScout.xyz.
 
-> Building **EduOS** and **Cash Control** 
-> Exploring AI systems, search, and reactive architectures while turning ideas into real, usable software.
+I build practical software projects around AI, automation, and developer tools. My goal is to turn complex ideas into simple products that anyone can understand and use.
+
+For my code and packages, visit:
+GitHub: https://github.com/sriramramnath
+PyPI: https://pypi.org/user/sriramramnath/
+
+For project queries or collaboration, contact:
+sriramramnath2011@gmail.com
 
 ---
 
 ## Projects
+- **[OmniScout](https://omniscout.xyz) - A python package that halps agents use the web.
 
 - **[Cash Control](https://cashcontrol-delta.vercel.app)**  - A modern ERP platform built to streamline financial management, invoicing, and business operations.
 - **EducationOS**
