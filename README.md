@@ -6,7 +6,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-Hi, I’m Sriram Ramnath, founder of www.OmniScout.xyz.
+Hi, I’m Sriram Ramnath, founder of [OmniScout](https://omniscout.xyz).
 
 I build practical software projects around AI, automation, and developer tools. My goal is to turn complex ideas into simple products that anyone can understand and use.
 
