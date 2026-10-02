@@ -20,7 +20,7 @@ sriramramnath2011@gmail.com
 ---
 
 ## Projects
-- **[OmniScout](https://omniscout.xyz)** - A python package that halps agents use the web.
+- **[OmniScout](https://omniscout.xyz)** - A python package that helps agents use the web and the whole computer. 25k+ downloads.
 
 - **[Cash Control](https://cashcontrol-delta.vercel.app)**  - A modern ERP platform built to streamline financial management, invoicing, and business operations.
 - **EducationOS**
