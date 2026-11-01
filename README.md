@@ -1,4 +1,4 @@
-# Hi, I'm Sriram Ramnath
+# Hi, I'm [Sriram Ramnath](https://sriramramnath.vercel.app/)
 
 I'm a student developer, founder, and inventor interested in building AI infrastructure and innovative software.
 
