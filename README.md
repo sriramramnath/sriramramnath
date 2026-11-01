@@ -26,7 +26,7 @@ A patent application has been filed for an innovation related to OmniScout's sea
 <summary>More About Me</summary>
 
 - Completed Harvard CS50 courses, including CS50P and CS50AI.
-- Studying Pearson Edexcel IGCSE.
+- Studying International GCSE.
 - Interested in AI, developer tools, and entrepreneurship.
 
 </details>
