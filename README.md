@@ -1,59 +1,50 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-800080?style=for-the-badge)
-![Codex](https://img.shields.io/badge/Codex-121212?style=for-the-badge&logo=openai&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+# Hi, I'm Sriram Ramnath
 
-Hi, I’m Sriram Ramnath, founder of [OmniScout](https://omniscout.xyz).
+I'm a student developer, founder, and inventor interested in building AI infrastructure and innovative software.
 
-I build practical software projects around AI, automation, and developer tools. My goal is to turn complex ideas into simple products that anyone can understand and use.
+## OmniScout
 
-For my code and packages, visit:
-GitHub: https://github.com/sriramramnath
-PyPI: https://pypi.org/user/sriramramnath/
+OmniScout is an AI-powered web research and automation platform that gives AI agents the ability to search, browse, extract information, and interact with the web and computers.
 
-For project queries or collaboration, contact:
-sriramramnath2011@gmail.com
+[Website](https://omniscout.xyz) | [Documentation](https://docs.omniscout.xyz) | [YouTube](https://www.youtube.com/@omniscoutai)
 
----
+## Patent
 
-## Projects
-- **[OmniScout](https://omniscout.xyz)** - A python package that helps agents use the web and the whole computer. 25k+ downloads.
+A patent application has been filed for an innovation related to OmniScout's search pipeline and AI-powered information retrieval.
 
-- **[Cash Control](https://cashcontrol-delta.vercel.app)**  - A modern ERP platform built to streamline financial management, invoicing, and business operations.
-- **EducationOS**
-  - **[EduOS Atlas](https://eduosatlas.vercel.app)**  - An IGCSE learning platform built for simple, effective revision.
-  - **[EduOS Campus](https://educationos.vercel.app)**  - A modern education platform built to rethink digital learning environments.
+[Patent Application](https://iprsearch.ipindia.gov.in/Verify/chkCert_PatentNew.aspx?prm1=FzcJYOYg6oIeykt7gV5SlQ==&prm2=PrFfK3LmjD6VUiVphNioOQ==&prm3=Uvg6iiFx1hTVeg3Xoo2Yfw==&prm4=lfxrVgWXWNmNDNhjAMHAIpOIVyvlZKaO6crWYtTIfFU24Ghl5QZrcqtiUP7wJYXj47NrYrRFEI8Rnewcl73fdQ==)
+
+## Contact Me
+
+**Email:** [sriramramnath2011@gmail.com](mailto:sriramramnath2011@gmail.com)
+
+**X:** [@r__sriram](https://x.com/r__sriram)
 
 ---
 
 <details>
-<summary> Notes</summary>
+<summary>More About Me</summary>
 
-- Interested in AI
-- Completed CS50 courses
-- Studying for IGCSE exams
+- Completed Harvard CS50 courses, including CS50P and CS50AI.
+- Studying Pearson Edexcel IGCSE.
+- Interested in AI, developer tools, and entrepreneurship.
 
 </details>
 
 <details>
-<summary>Creative Work</summary>
+<summary>Other Projects</summary>
 
-I also create digital art.
-
--> **[sriramarts.com](https://sriramarts.com)**
+- [Cash Control](https://cashcontrol-delta.vercel.app) - ERP and financial management platform.
+- [EduOS Atlas](https://eduosatlas.vercel.app) - IGCSE learning platform.
+- [EduOS Campus](https://educationos.vercel.app) - Digital education platform.
 
 </details>
 
 <details>
 <summary>Archived Projects</summary>
 
-- **[LevLang](https://github.com/sriramramnath/language)** -  Custom programming language for game development, compiling to Python.
-  
-- **[LevCode](https://github.com/sriramramnath/IDE)** - IDE for LevLang development. (Now replaced by VS Code extensions and LevLang CLI.)
-
-- **[School Search](https://school-search-eight.vercel.app)**  - Structured discovery and intelligent search system for schools.
+- [LevLang](https://github.com/sriramramnath/language) - Custom programming language.
+- [LevCode](https://github.com/sriramramnath/IDE) - IDE for LevLang.
+- [School Search](https://school-search-eight.vercel.app) - School discovery platform.
 
 </details>
